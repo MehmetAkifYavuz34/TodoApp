@@ -1,16 +1,16 @@
 # Dependencies
--react-native-async-storage/async-storage": "^2.1.2,
--react-navigation/native": "^7.1.6,
--react-navigation/native-stack": "^7.3.10,
--iconsax-react-native": "^0.0.8,
--lottie-react-native": "^7.2.2,
+-react-native-async-storage/async-storage": 2.1.2
+-react-navigation/native" 7.1.6
+-react-navigation/native-stack": "^7.3.10
+-iconsax-react-native": "^0.0.8
+-lottie-react-native": "^7.2.2
 -react": "19.0.0,
 -react-native": "0.79.1,
--react-native-linear-gradient": "^2.8.3,
--react-native-onboarding-swiper": "^1.3.0,
--react-native-safe-area-context": "^5.4.0,
--react-native-screens": "^4.10.0,
--react-native-svg": "^15.11.2,
+-react-native-linear-gradient": "^2.8.3
+-react-native-onboarding-swiper": "^1.3.0
+-react-native-safe-area-context": "^5.4.0
+-react-native-screens": "^4.10.0
+-react-native-svg": "^15.11.2
 -react-native-uuid": "^2.0.3
   
 
