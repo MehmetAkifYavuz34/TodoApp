@@ -1,6 +1,8 @@
 # Dependencies
 -react-native-async-storage/async-storage": 2.1.2
+-
 -react-navigation/native" 7.1.6
+
 -react-navigation/native-stack": "^7.3.10
 -iconsax-react-native": "^0.0.8
 -lottie-react-native": "^7.2.2
