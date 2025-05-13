@@ -30,20 +30,6 @@ https://github.com/user-attachments/assets/58872398-96a2-4a00-a176-98c99df976e2
 - **Validation Support**: Robust form validation using Formik and Yup.
 - **Scalable Graphics**: SVG support for high-quality visuals.
 
-## 🚀 Getting Started
 
-> **Note**: Ensure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
-
-### Step 1: Start Metro
-
-Metro is the JavaScript build tool for React Native. Start the Metro dev server using the following command:
-
-```sh
-# Using npm
-npm start
-
-# OR using Yarn
-yarn start
-  
 
 
