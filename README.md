@@ -1,32 +1,42 @@
-# Dependencies
-
-- react-native-async-storage/async-storage": 2.1.2
-- react-navigation/native" 7.1.6
-- react-navigation/native-stack": "^7.3.10
-- iconsax-react-native": "^0.0.8
-- lottie-react-native": "^7.2.2
-- react": "19.0.0,
-- react-native": "0.79.1,
-- react-native-linear-gradient": "^2.8.3
-- react-native-onboarding-swiper": "^1.3.0
-- react-native-safe-area-context": "^5.4.0
-- react-native-screens": "^4.10.0
-- react-native-svg": "^15.11.2
-- react-native-uuid": "^2.0.3
-  
-
-
+# TaskExample
 https://github.com/user-attachments/assets/58872398-96a2-4a00-a176-98c99df976e2
+## 📖 Project Description
 
-  
+**TaskExample** is a React Native application designed for managing tasks efficiently. It provides a modern and user-friendly interface with the ability to handle tasks seamlessly across Android and iOS platforms. With its clean architecture and integration of popular libraries, this project is an excellent foundation for task management applications.
 
+## 🛠️ Technologies Used
 
+### Core Technologies:
+- **React Native (0.79.1)**: For cross-platform mobile application development.
+- **JavaScript (55.5%)**: For application logic and functionality.
+- **Kotlin (20.2%)** & **Swift (9.9%)**: For platform-specific native modules.
+- **TypeScript (2%)**: For type-safe development.
 
-## Step 1: Start Metro
+### Libraries and Dependencies:
+- **@eva-design/eva (2.2.0)**: UI design system for consistent styling.
+- **@ui-kitten/components (5.3.1)**: For building flexible and beautiful UIs.
+- **formik (2.4.6)**: For form state management.
+- **react (19.0.0)**: Core library for building user interfaces.
+- **react-native-safe-area-context (5.4.0)**: For managing safe areas in layouts.
+- **react-native-screens (4.10.0)**: For optimized screen handling and navigation.
+- **react-native-svg (15.11.2)**: For adding scalable vector graphics.
+- **yup (1.6.1)**: For schema validation and form validation.
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+## 🌟 Features
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+- **Task Management**: Create, edit, and delete tasks with ease.
+- **Modern UI/UX**: Powered by Eva Design and UI Kitten components for a clean and consistent design.
+- **Cross-Platform Support**: Fully compatible with both Android and iOS devices.
+- **Validation Support**: Robust form validation using Formik and Yup.
+- **Scalable Graphics**: SVG support for high-quality visuals.
+
+## 🚀 Getting Started
+
+> **Note**: Ensure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+
+### Step 1: Start Metro
+
+Metro is the JavaScript build tool for React Native. Start the Metro dev server using the following command:
 
 ```sh
 # Using npm
@@ -34,24 +44,6 @@ npm start
 
 # OR using Yarn
 yarn start
-```
-
-## Step 2: Build and run your app
-
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
-
-### Android
-
-```sh
-# Using npm
-npm run android
-
-# OR using Yarn
-yarn android
-
-
-
-
-
+  
 
 
